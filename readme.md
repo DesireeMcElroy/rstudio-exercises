@@ -1,0 +1,1 @@
+Completing initial readme for RStudio
